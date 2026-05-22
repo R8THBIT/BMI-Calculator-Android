@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="bmi_title">BMI Calculator</string>
+    <string name="male_label">Male</string>
+    <string name="female_label">Female</string>
+    <string name="age_label">Age</string>
+    <string name="age_hint">Enter your age</string>
+    <string name="weight_label">Weight (kilograms)</string>
+    <string name="weight_hint">Enter your weight</string>
+    <string name="height_label">Height (meters)</string>
+    <string name="height_hint">Enter your height (e.g. 1.75)</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="default_score_text">23.6</string>
+    <string name="default_status_text">You are a healthy weight!</string>
+    <string name="gauge_image_desc">BMI Meter Graphic</string>
+</resources>
